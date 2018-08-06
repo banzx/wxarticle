@@ -1,0 +1,10 @@
+
+
+hashCode和equals
+这个两个方法来自于Object类，任何类都默认继承了这两个方法，
+
+
+
+
+1.String
+a.String之间的比较
