@@ -1,4 +1,4 @@
-package com.liang.wxarticle.equals;
+package com.banzxia.wxarticle.equals;
 
 public class User {
 	

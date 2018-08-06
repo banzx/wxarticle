@@ -1,11 +1,11 @@
 /**
  * 
  */
-package com.liang.wxarticle.string;
+package com.banzxia.wxarticle.string;
 
 /**
  * 
- *@author: liangxp
+ *@author: banzxia
  *date:2018年7月9日上午10:41:02
  */
 public class StringTest {

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.liang.wxarticle.equals;
+package com.banzxia.wxarticle.equals;
 
 import java.util.HashMap;
 import java.util.HashSet;

@@ -1,4 +1,4 @@
-package com.liang.wxarticle.collection;
+package com.banzxia.wxarticle.collection;
 
 import java.util.ArrayList;
 import java.util.List;

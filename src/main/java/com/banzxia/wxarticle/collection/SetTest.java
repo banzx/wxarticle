@@ -1,4 +1,4 @@
-package com.liang.wxarticle.collection;
+package com.banzxia.wxarticle.collection;
 
 import java.util.HashSet;
 import java.util.Set;
