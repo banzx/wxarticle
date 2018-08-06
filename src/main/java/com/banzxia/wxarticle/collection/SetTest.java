@@ -3,6 +3,12 @@ package com.banzxia.wxarticle.collection;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * 
+ * 
+ *@author: banzxia
+ *date:2018年8月6日下午3:30:06
+ */
 public class SetTest {
 	
 	public static void main(String[] args) {
